@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8C6808C4-53B9-0E6C-C007-D795C87C3A5F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MM.cs">
+    <Files>
+      <File FileName="Assets/Fungus/Scripts/Components/SayDialog.cs" Line="280" Column="22" />
+      <File FileName="Assets/MM.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="16167e69-5893-4b7f-b9b8-fb44713d76fb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

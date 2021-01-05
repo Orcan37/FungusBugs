@@ -1,0 +1,17 @@
+Key,Description,Standard,ENG,DEU
+SAY.TestResourcesFlowchart.1.,,{color=red} (e)  Hi{/color},{color=red} (e)  Hi{/color},{color=red} (D)  Hi{/color}
+SAY.TestResourcesFlowchart.3.,, {color=red} (e)  Everything works!! vecG ={$vecG} {/color}, {color=red} (e)  Everything works!! vecG ={$vecG}  {/color},{color=red}  (D)  Alles funktioniert !! vecG = {$vecG} {/color}
+SAY.Flowchart.17.John,,"(e)  Phew, I can't believe I managed to escape from that horde of man-eating robotic ants.","(e)  Phew, I can't believe I managed to escape from that horde of man-eating robotic ants.","(D)  Puh, ich kann nicht glauben, dass ich es geschafft habe, dieser Horde menschenfressender Roboterameisen zu entkommen."
+SAY.Flowchart.37.John,,(e)  Now where am I?,(e)  Now where am I?,(D)  Wo bin ich jetzt?
+MENU.Flowchart.25,,(e)  Duck down,(e)  Duck down,(D) Ente dich
+MENU.Flowchart.81,,(e)  Duck down,(e)  Duck down,(D)  Ente dich
+SAY.Flowchart.28.John,,"(e)  Thinking fast, you unfurl your trusty umbrella just in time to block the stream of robotic ant saliva.{wc}\nThe umbrella dissolves into a puddle of molten metal.{wc}\nGoodbye old friend.\n","(e)  Thinking fast, you unfurl your trusty umbrella just in time to block the stream of robotic ant saliva.{wc}\nThe umbrella dissolves into a puddle of molten metal.{wc}\nGoodbye old friend.\n","(D)  Wenn Sie schnell nachdenken, entfalten Sie Ihren vertrauenswürdigen Regenschirm gerade rechtzeitig, um den Strom von Roboterameisenspeichel zu blockieren. {wc} \ nDer Regenschirm löst sich in einer Pfütze aus geschmolzenem Metall auf. {wc} \ n Auf Wiedersehen, alter Freund. \ n"
+SAY.Flowchart.27.John,,"(e)   You duck your head, leaving your buttocks perilously exposed.{wc}\nThe liquid projectile strikes a rock behind you and the back splatter gives you a nasty acid burn on your bottom.","(e)   You duck your head, leaving your buttocks perilously exposed.{wc}\nThe liquid projectile strikes a rock behind you and the back splatter gives you a nasty acid burn on your bottom.",(D)  Du duckst deinen Kopf und lässt dein Gesäß gefährlich frei. {wc} \ nDas flüssige Projektil trifft einen Stein hinter dir und der Rückenspritzer verursacht einen bösen Säurebrand auf deinem Hintern.
+SAY.Flowchart.48.John,,"(e)  With no weapon to hand, you beat a hasty retreat in the face of superior firepower.{wc}\nThe shame of your defeat drives you to the drink, and you live out the rest of your days a frail shell of the man you once were.","(e)  With no weapon to hand, you beat a hasty retreat in the face of superior firepower.{wc}\nThe shame of your defeat drives you to the drink, and you live out the rest of your days a frail shell of the man you once were.","(D)  Ohne eine Waffe zur Hand hast du dich angesichts überlegener Feuerkraft hastig zurückgezogen. {wc} \ nDie Schande deiner Niederlage treibt dich zum Getränk, und du lebst den Rest deiner Tage eine zerbrechliche Hülle der Mann, du warst einmal."
+SETTEXT.Flowchart.73,,IntegerG = {$IntegerG} IntegerP =  {$IntegerP} vecG =  {$vecG} vecP =  {$vecP},IntegerG = {$IntegerG} IntegerP =  {$IntegerP} vecG =  {$vecG} vecP =  {$vecP},IntegerG = {$IntegerG} IntegerP = {$IntegerP} vecG = {$vecG} vecP = {$vecP}
+SAY.Flowchart.85.,,LocalDeutschland,LocalDeutschland,LocalDeutschland
+SAY.Flowchart.91.,,check,check,(D) prüfen
+SAY.Flowchart.87.,,LocalEnglish,LocalEnglish,LocalEnglish
+SAY.Flowchart.90.,,check,check,(D) prüfen
+CHARACTER.John,,John,John,John
+CHARACTER.Character Name,,Character Name,Character Name,Charaktername
